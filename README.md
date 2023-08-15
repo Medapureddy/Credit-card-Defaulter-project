@@ -1,23 +1,19 @@
 # Credit-card-Defaulter-project
 **Problem Statement**: 
-
-
 Predict whether a customer is defaulting credit payment for the next month
 
 The findings of the project aim to assist financial institutions by addressing the below: 
 
 **1) Risk Management:**
-
-
   To proactively reduce credit limit of users based on their profile and mitigate losses.
+
 **2) Customer Rentention:**
-
-
   Rentaining customers by providing tailored incentives to low-risk customers using customer segmentation. 
 
-This dataset contains information on default payments, demographic factors, credit data,
-history of payment, and bill statements of credit card clients
-• **Source:** https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients • UCI Machine learning repository
+This dataset contains information on default payments, demographic factors, credit data,history of payment, and bill statements of credit card clients
+
+• **Source:** https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+ • UCI Machine learning repository
    The dataset has over 30,000 observations and 24 features.
 
 **Features:**

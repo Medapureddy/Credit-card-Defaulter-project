@@ -16,19 +16,23 @@ This dataset contains information on default payments, demographic factors, cred
  • UCI Machine learning repository
    The dataset has over 30,000 observations and 24 features.
 
+This notebook consisits of the following parts:
+1) Exploratory Data Analysis
+2) Data cleaning and further exploration
+3) Building a base model
+4) Feature Engineering
+5) Building ML model using various algorithms and comparing them
+6) Conclusion
+
 **Features:**
 
 **LIMIT_BAL**: **Continuous.** Credit Limit of the person.
-
 **SEX**: **Categorical**: 1 = male; 2 = female
-
 **EDUCATION**: **Categorical**: 1 = graduate school; 2 = university; 3 = high school; 4 = MARRIAGE: 1 = married; 2 = single; 3 = others
-
 **AGE**: num. **Continuous**
 
 **PAY_0,PAY_2 to PAY_6**: **Categorical** :-
-
-2: Payment made in full and on time
+2:Payment made in full and on time
 
 -1: payment made in full but past the due date
 
@@ -61,12 +65,3 @@ This dataset contains information on default payments, demographic factors, cred
 
 0:The Person will not be in the defaulter for the next month
 1: The Person will be in the defaulter list for the next month
-
-
-This notebook consisits of the following parts:
-1) Exploratory Data Analysis
-2) Data cleaning and further exploration
-3) Building a base model
-4) Feature Engineering
-5) Building ML model using various algorithms and comparing them
-6) Conclusion

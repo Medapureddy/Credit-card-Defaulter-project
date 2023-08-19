@@ -22,6 +22,9 @@ The notebook consisits of the following parts:
 5) Building ML model using various algorithms and comparing them
 6) Conclusion
 
+Can be further enhanced by deploying the model on flask.
+
+
 **Features:**
 
 **LIMIT_BAL**: **Continuous.** Credit Limit of the person.
